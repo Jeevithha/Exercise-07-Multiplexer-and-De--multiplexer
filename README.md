@@ -110,10 +110,7 @@ endmodule
 ![](2.png)
 ## Timing diagram
 #### Multiplexer:
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+
 #### De-Multiplexer:
 ![](7.png)
 ## Truth table
