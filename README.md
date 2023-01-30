@@ -123,4 +123,4 @@ endmodule
 #### De-Multiplexer:
 ![](9.png)
 ## RESULTS:
-Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs
+Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs.
