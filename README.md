@@ -104,23 +104,32 @@ endmodule
 
 
 ## RTL LOGIC 
-#### Multiplexer:
-![](1.png)
-####  De-Multiplexer:
-![](2.png)
+####
+
+####  Multiplexer:
+![image](https://user-images.githubusercontent.com/123623197/215392176-6e36b0fd-eae2-4d7c-9549-b8d712d41bf8.png)
+
+
+De Multiplexer
+![image](https://user-images.githubusercontent.com/123623197/215392462-572dce04-c53b-418c-a386-5c0c319dac9a.png)
+
 ## Timing diagram
 #### Multiplexer:
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+![image](https://user-images.githubusercontent.com/123623197/215392533-07ae0b0e-b1d9-4e45-8e15-ea0f2e5c1c80.png)
+![image](https://user-images.githubusercontent.com/123623197/215392567-09df1238-4af5-438f-a27e-074566fde4d9.png)
+![image](https://user-images.githubusercontent.com/123623197/215392603-975fead7-d141-4e6f-b0a2-4286751c9b83.png)
+![image](https://user-images.githubusercontent.com/123623197/215392645-4d709cca-4ee5-4bfd-8bdb-c5f465022f1d.png)
+
 
 #### De-Multiplexer:
-![](7.png)
+![image](https://user-images.githubusercontent.com/123623197/215392741-caea4f52-7c37-4b4d-b798-e21e82175136.png)
+
 ## Truth table
 #### Multiplexer:
-![](8.png)
+![image](https://user-images.githubusercontent.com/123623197/215392833-640ff46e-3c18-4d7b-a599-6dd14097bf66.png)
+
 #### De-Multiplexer:
-![](9.png)
+![image](https://user-images.githubusercontent.com/123623197/215392995-fdef900e-4f10-4f16-bba4-341dcda66385.png)
+
 ## RESULTS:
 Therefore 4X1 multiplexer and 1X4 de multiplexer are successfully implemented using verilog and validate its outputs.
